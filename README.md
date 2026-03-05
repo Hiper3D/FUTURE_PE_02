@@ -17,4 +17,5 @@ The master prompt (`master_prompt.txt`) utilizes a structured variable system to
 
 ## Tools Used
 * Generative AI (Google Gemini)
+* Generative AI (OpenAI ChatGPT)
 * GitHub for version control and documentation
