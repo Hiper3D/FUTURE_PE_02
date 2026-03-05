@@ -5,11 +5,13 @@ VARIABLES:
 - Product Type: D2C Tech Gadget (Snap-on phone cooling fan)
 - Target Audience: Mobile gamers experiencing lag, frame drops, and battery drain due to phone overheating.
 - Platform: Instagram Reels & YouTube Shorts
-- Ad Framework: Problem -> Solution -> CTA
 - Tone: Authentic, raw, fast-paced, and relatable (not corporate or overly salesy).
 
 DELIVERABLES:
-1. MULTIPLE HOOKS: Generate 3 distinct, scroll-stopping visual/audio hooks (under 3 seconds each).
-2. UGC AD SCRIPT: A 30-second video script using the winning hook. Format with two columns: [Visual/Action] and [Audio/Spoken]. Keep the dialogue feeling like a real customer review.
-3. CALL TO ACTION (CTA): 2 strong CTA options to drive immediate clicks.
+1. MULTIPLE HOOKS: Generate 3 distinct, scroll-stopping visual/audio hooks (under 3 seconds each) using proven frameworks like Negative Hooks and Transformation Hooks.
+2. MULTIPLE UGC AD SCRIPTS: Generate 2 distinct 30-to-45 second video scripts. 
+   - Script 1: Focus on the "Problem -> Solution -> CTA" framework.
+   - Script 2: Focus on an authentic, conversational review/testimonial angle.
+   Format both with two columns: [Visual/Action] and [Audio/Spoken].
+3. CALL TO ACTION (CTA): Provide 2 strong CTA options to drive immediate clicks.
 4. CAPTION: A platform-optimized caption with relevant hashtags.
